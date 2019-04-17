@@ -1,10 +1,10 @@
 code description:
-src/com/demo/app/Application.java			test code main, to show all the result
-src/com/demo/common/SystemUtil.java			common utils, reused by the need function
-src/com/demo/constant/SystemConstant.java		constant defined in this file.
+com/demo/test/ThreeOrFiveTest.java		test code, to show all the result
+com/demo/common/SystemUtil.java			common utils, reused by the need function
+com/demo/constant/SystemConstant.java		constant defined in this file.
 
 run result in eclipse in the following infomation :
-begin firstTest =========================
+ firstTest ===========================
 1
 2
 Fizz
@@ -105,8 +105,8 @@ Fizz
 98
 Fizz
 Buzz
-end firstTest =========================
-begin secondTest =========================
+ firstTest ===========================
+ secondTest ===========================
 1
 2
 Fizz
@@ -207,4 +207,4 @@ Fizz
 98
 Fizz
 Buzz
-end secondTest =========================
+ secondTest ===========================
